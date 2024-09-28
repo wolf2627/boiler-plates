@@ -1,0 +1,4 @@
+{
+    "usecase": "In this file, we can store the configuration of the project. ",
+    "example": "The database connection information, the path of the project, the path of the log file, etc."
+}
